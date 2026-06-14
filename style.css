@@ -440,6 +440,7 @@ footer {
     flex-direction: row;
     justify-content: space-between;
     height: 30%;
+    margin-top: 30px;
 
     .text {
       width: 30%;
